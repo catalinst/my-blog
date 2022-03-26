@@ -1,8 +1,8 @@
 const HomePage = () => {
   return (
-    <main>
+    <section>
       Main Page
-    </main>
+    </section>
   );
 }
 
