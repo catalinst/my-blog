@@ -1,8 +1,10 @@
+import Personal from '../components/home-page/Personal';
+
 const HomePage = () => {
   return (
-    <section>
-      Main Page
-    </section>
+    <>
+      <Personal />
+    </>
   );
 }
 
